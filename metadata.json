@@ -1,0 +1,6 @@
+{
+  "name": "Camera Obscura Explorer",
+  "description": "An interactive educational museum exhibit demonstrating the optics of the camera obscura, light rectilinear propagation, and the aperture sharpness-brightness trade-off.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
